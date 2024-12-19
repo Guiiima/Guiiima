@@ -29,7 +29,7 @@ readme.render();
 
 <div align="center">
     <a href="https://www.linkedin.com/in/guilherme-henrique-aparecido-de-oliveira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width=32px /></a>
-    <a href="mailto:guilhermeh000@hotmail.com"><img src="./assets/Gmail.png" width=32px /></a>
+    <a href="mailto:guilhermeh000@hotmail.com"><img src="./assets/Outlook.png" width=32px /></a>
 </div>
 
 <div align="center">
