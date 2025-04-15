@@ -3,26 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=1000&color=8C67DB&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%8E+Hello%2C+World!+%F0%9F%8C%8E;Welcome+to+Guilherme+Henrique's+Github!)](https://git.io/typing-svg)
 </div>
 
-```typescript
 
-class Readme {
-    static create(github: Github) {
-        return new Readme(github);
-    }
-}
-const essentials = ["Coffee ☕", "Code 💻", "Learning 📚"];
-const developer = new Developer("Guilherme Henrique", essentials);
-
-const github = Github.create(developer)
-                     .addProjects(developer.workHard());
-
-const readme = Readme.create(github)
-                     .writeBio()
-                     .addSkills()
-                     .showStats();
-
-readme.render();
-```
 <p align="center">Desenvolvedor de Software | Estudante de Ciência da Computação</p>
 <p align="center">Entusiasta de programação e tecnologia</p>
 <p align="center">Me encontre também em:</p>
